@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Anuprovo Debnath",
-    "label": "Third-year Undergraduate Student (BS–MS)",
-    "image": "",
+    "label": "Third-year Undergrad (Physics)",
     "email": "ad23ms110@iiserkol.ac.in",
-    "phone": "6289630036",
-    "url": "https://drive.google.com/drive/folders/1SnC9NARXGRBr04S2Pz8KjnOMD9wokjh3",
+    "phone": " +91 6289630036",
+    "url": "https://anudev501.github.io/anuprovo_debnath",
     "summary": "Third-year undergraduate at IISER Kolkata with strong interests in plasma physics, nuclear fusion, and computational physics. Actively engaged in simulation, spectroscopy-based plasma diagnostics, and scientific computing.",
     "location": {
       "address": "A-022, Nivedita Hostel, IISER Kolkata",
@@ -19,36 +18,30 @@
   "education": [
     {
       "institution": "Indian Institute of Science Education and Research, Kolkata",
-      "location": "Kolkata, India",
+      "location": "West Bengal, India",
       "area": "Physics",
       "studyType": "BS–MS",
-      "startDate": "2023-01-01",
+      "startDate": "2023-08-16",
       "endDate": "",
       "score": "CGPA: 8.82",
       "courses": [
-        "Advanced Quantum Physics",
-        "Statistical Mechanics",
-        "Computational Physics",
-        "Stochastic Processes",
-        "Mathematical Methods in Physics",
-        "Intermediate Electricity and Magnetism",
-        "Optics (Theory and Lab)",
-        "Electronics (Theory and Lab)",
-        "Nuclear Physics Laboratory"
+        "Physics (major)",
+        "Mathematics (minor)",
+        "Computational and Data Science"
       ]
     },
     {
       "institution": "St. Jude’s High School",
-      "location": "Madhyamgram, West Bengal, India",
+      "location": "West Bengal, India",
       "studyType": "ISC (Class XII)",
-      "endDate": "2021-01-01",
+      "endDate": "2023",
       "score": "95.75%"
     },
     {
       "institution": "St. Jude’s High School",
-      "location": "Madhyamgram, West Bengal, India",
+      "location": "West Bengal, India",
       "studyType": "ICSE (Class X)",
-      "endDate": "2019-01-01",
+      "endDate": "2021",
       "score": "94.4%"
     }
   ],
@@ -60,11 +53,10 @@
       "highlights": [
         "Calibration-free LIBS",
         "Boltzmann and Saha–Boltzmann analysis",
-        "Stark broadening",
-        "Machine learning integration"
+        "Stark broadening"
       ],
-      "startDate": "2025-05-01",
-      "endDate": "",
+      "startDate": "2025-05-13",
+      "endDate": "2025-06-31",
       "url": "",
       "roles": ["Research Intern"],
       "entity": "Physical Research Laboratory, Ahmedabad"
@@ -76,22 +68,22 @@
         "Relativistic fluid dynamics",
         "Astrophysical simulations"
       ],
-      "startDate": "2025-01-01",
+      "startDate": "2025-01",
       "endDate": "",
       "entity": "IISER Kolkata"
     },
     {
       "name": "Thermodynamics Reading Project",
       "summary": "Reading project on thermodynamics and statistical mechanics based on 'A Treatise on Heat' by M.N. Saha and B.N. Srivastava.",
-      "startDate": "2024-05-01",
-      "endDate": "2024-07-01",
+      "startDate": "2024-05",
+      "endDate": "2024-07",
       "entity": "IISER Kolkata"
     },
     {
-      "name": "Hobbyist Compute Cluster (Slashdot)",
+      "name": "Compute Cluster (Slashdot)",
       "summary": "Setting up a Proxmox + Kubernetes-based compute cluster using refurbished PCs to allow students to experiment without affecting production systems.",
       "highlights": ["Proxmox", "Kubernetes", "Linux systems"],
-      "startDate": "2025-01-01",
+      "startDate": "2025-12",
       "endDate": ""
     }
   ],
@@ -128,7 +120,7 @@
     {
       "organization": "Slashdot (Coding Club, IISER Kolkata)",
       "position": "Secretary",
-      "startDate": "2025-01-01",
+      "startDate": "2025-07-01",
       "endDate": "",
       "summary": "Led technical and organizational initiatives including compute infrastructure and national-level events."
     },
