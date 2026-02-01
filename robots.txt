@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anudev501.github.io/anuprovo_debnath/sitemap.xml
+Sitemap: https://anuprovo-debnath.github.io/sitemap.xml
