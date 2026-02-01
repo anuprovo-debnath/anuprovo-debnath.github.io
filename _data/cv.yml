@@ -4,22 +4,17 @@ cv:
   email: ad23ms110@iiserkol.ac.in
   location: IISER Kolkata, West Bengal, India
   image: ""
-  summary: >
-    Third-year undergraduate student at IISER Kolkata with strong interests in plasma physics,
-    nuclear fusion, and magnetic confinement of fusion plasmas. Actively involved in computational
-    physics, spectroscopy-based plasma diagnostics, simulations, and scientific coding.
+  summary: Third-year undergraduate student at IISER Kolkata with strong interests in plasma physics, nuclear fusion, and magnetic confinement of fusion plasmas. Actively involved in computational physics, spectroscopy-based plasma diagnostics, simulations, and scientific coding.
 
   social_networks:
     - network: GitHub
       username: ""
     - network: LinkedIn
       username: ""
-    - network: YouTube
-      username: "9lbwDXNUHrE"
 
   address:
-    street: A-022, Nivedita Hostel, IISER Kolkata
-    city: Mohanpur, Nadia
+    street: C-117, NSCB Hostel, IISER Kolkata
+    city: Kalyani
     region: West Bengal
     postalCode: 741246
     countryCode: IN
@@ -34,39 +29,42 @@ cv:
         end_date: Present
         score: "CGPA: 8.82"
         courses: >
-          Advanced Quantum Physics, Statistical Mechanics, Computational Physics,
-          Stochastic Processes, Mathematical Methods in Physics,
-          Intermediate Electricity and Magnetism, Optics (Theory and Lab),
-          Electronics (Theory and Lab), Nuclear Physics Laboratory
+          Advanced Quantum Physics
+          Statistical Mechanics
+          Computational Physics
+          Stochastic Processes
+          Mathematical Methods in Physics
+          Intermediate Electricity and Magnetism
+          Optics (Theory and Lab)
+          Electronics (Theory and Lab)
+          Nuclear Physics Laboratory
         highlights:
           - Strong foundation in theoretical and computational physics
           - Emphasis on plasma physics and spectroscopy
 
       - institution: St. Jude’s High School
-        location: Madhyamgram, West Bengal, India
+        location: >
+          Madhyamgram, 
+          West Bengal, India
         studyType: ISC (Class XII)
         end_date: 2021
         score: "95.75%"
-        highlights:
-          - Top 1% in ISC Examination
 
       - institution: St. Jude’s High School
-        location: Madhyamgram, West Bengal, India
+        location: >
+          Madhyamgram, 
+          West Bengal, India
         studyType: ICSE (Class X)
         score: "94.4%"
-        highlights:
-          - Strong academic performance in science and mathematics
 
     Experience:
       - company: Physical Research Laboratory (PRL), Ahmedabad
         position: Research Intern
         location: Ahmedabad, India
-        start_date: 2025
+        start_date: 05.2025
         end_date: Present
         summary: >
-          Development of a Python-based framework to extract electron temperature (Te)
-          and electron density (ne) from LIBS plasmas using Boltzmann plots,
-          Saha–Boltzmann analysis, and Stark broadening with NIST spectral data.
+          Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening with NIST spectral data.
         highlights:
           - Calibration-free LIBS diagnostics
           - Machine learning integration for improved line analysis
@@ -75,11 +73,9 @@ cv:
       - company: IISER Kolkata
         position: Student Researcher
         location: Kolkata, India
-        start_date: 2025
+        start_date: 11.2025
         end_date: Present
-        summary: >
-          Simulation of relativistic accretion disks around black holes using
-          classical and relativistic fluid dynamics frameworks.
+        summary: Simulation of relativistic accretion disks around black holes using classical and relativistic fluid dynamics frameworks.
         highlights:
           - Relativistic fluid dynamics
           - Astrophysical simulations
@@ -90,9 +86,7 @@ cv:
         location: IISER Kolkata
         start_date: 2025
         end_date: 2026
-        summary: >
-          Led technical and organizational initiatives including infrastructure projects
-          and national-level events.
+        summary: Led technical and organizational initiatives including infrastructure projects and national-level events.
         highlights:
           - Setting up Proxmox + Kubernetes hobbyist compute cluster
           - Organized Qiskit Fall Fest 2025
@@ -101,7 +95,7 @@ cv:
       - title: DST INSPIRE Scholarship
         authors:
           - Government of India
-        date: 2021
+        date: 2023
         awarder: Department of Science and Technology, India
         summary: Awarded for ranking in the top 1% in the ISC examination.
 
@@ -144,18 +138,13 @@ cv:
     Interests:
       - name: Physics
         icon: fa-solid fa-atom
-        keywords: >
-          Plasma Physics, Nuclear Fusion, Magnetohydrodynamics,
-          Optics and Spectroscopy, Astrophysics
+        keywords: Plasma Physics, Nuclear Fusion, Magnetohydrodynamics, Optics and Spectroscopy, Astrophysics
 
     Certificates: []
 
     Projects:
       - name: Evaluating Plasma Parameters from a Typical LIBS Plasma
-        summary: >
-          Extraction of electron temperature and density from LIBS plasmas
-          using spectroscopic techniques and NIST spectral data, with ongoing
-          machine learning enhancements.
+        summary: Extraction of electron temperature and density from LIBS plasmas using spectroscopic techniques and NIST spectral data, with ongoing machine learning enhancements.
         highlights:
           - Boltzmann and Saha–Boltzmann analysis
           - Stark broadening
@@ -164,9 +153,7 @@ cv:
         end_date: Present
 
       - name: Hobbyist Compute Cluster (Slashdot)
-        summary: >
-          Building a Proxmox and Kubernetes-based compute cluster using refurbished PCs
-          to allow students to experiment without impacting production systems.
+        summary: Building a Proxmox and Kubernetes-based compute cluster using refurbished PCs to allow students to experiment without impacting production systems.
         highlights:
           - Proxmox
           - Kubernetes
