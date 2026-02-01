@@ -25,7 +25,7 @@ cv:
         location: Kolkata, India
         area: Physics
         studyType: BS–MS
-        start_date: 2023
+        start_date: 08.2023
         end_date: Present
         score: "CGPA: 8.82"
         courses: >
@@ -44,15 +44,15 @@ cv:
 
       - institution: St. Jude’s High School
         location: >
-          Madhyamgram, 
+          Madhyamgram, <br>
           West Bengal, India
         studyType: ISC (Class XII)
-        end_date: 2021
+        date: 2023
         score: "95.75%"
 
       - institution: St. Jude’s High School
         location: >
-          Madhyamgram, 
+          Madhyamgram, <br>
           West Bengal, India
         studyType: ICSE (Class X)
         score: "94.4%"
