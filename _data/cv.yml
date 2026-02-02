@@ -1,6 +1,6 @@
 cv:
   name: Anuprovo Debnath
-  label: Third-year Undergraduate (BS–MS), Physics
+  label: Third-year Undergraduate (BS-MS), Physics
   email: ad23ms110@iiserkol.ac.in
   location: IISER Kolkata, West Bengal, India
   image: ""
@@ -24,7 +24,7 @@ cv:
       - institution: Indian Institute of Science Education and Research, Kolkata
         location: Kalyani<br> West Bengal, India
         area: Physics
-        studyType: BS–MS
+        studyType: BS-MS
         start_date: 2023
         end_date: Present
         score: "CGPA: 8.82"
@@ -66,7 +66,7 @@ cv:
         location: Ahmedabad, India
         start_date: 05.2025
         end_date: Present
-        summary: Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening with NIST spectral data.
+        summary: Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening with NIST spectral data.
         highlights:
           - Calibration-free LIBS diagnostics
           - Machine learning integration for improved line analysis
@@ -111,7 +111,7 @@ cv:
         awarder: IAAC
         summary: Silver Honour recipient
 
-    Publications: []
+    # Publications: []
 
     Skills:
       - name: Programming
@@ -142,13 +142,13 @@ cv:
         icon: fa-solid fa-atom
         keywords: Plasma Physics, Nuclear Fusion, Magnetohydrodynamics, Optics and Spectroscopy, Astrophysics
 
-    Certificates: []
+    #Certificates: []
 
     Projects:
       - name: Evaluating Plasma Parameters from a Typical LIBS Plasma
         summary: Extraction of electron temperature and density from LIBS plasmas using spectroscopic techniques and NIST spectral data, with ongoing machine learning enhancements.
         highlights:
-          - Boltzmann and Saha–Boltzmann analysis
+          - Boltzmann and Saha-Boltzmann analysis
           - Stark broadening
           - Machine learning framework
         start_date: 2025
