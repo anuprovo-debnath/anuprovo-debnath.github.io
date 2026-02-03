@@ -2,7 +2,7 @@
 layout: page
 title: Summer Internship Project
 description: My project report
-img: 
+img: assets/img/Plasma_1.jpg
 importance: 1
 category: work
 ---
