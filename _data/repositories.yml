@@ -7,3 +7,4 @@ repo_description_lines_max: 2
 github_repos:
   - slashdot-iiserk/qiskit_fallfest
   - castorini/anserini
+  - alshedivat/al-folio
