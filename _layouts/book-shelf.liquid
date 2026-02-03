@@ -20,7 +20,7 @@ layout: page
       {% endif %}
 
       <figure class="cover">
-        <a class="cover-link" href="#"> {% "{{ item.url | relative_url }}"> %} {%uncomment the link to allow book link%}
+        <a class="cover-link" href="javascript:void(0)"> {% "{{ item.url | relative_url }}"> %} {%uncomment the link to allow book link%}
           {% if item.cover %}
             <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:200px">
           {% elsif item.olid %}
