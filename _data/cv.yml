@@ -1,6 +1,6 @@
 cv:
   name: Anuprovo Debnath
-  label: Third-year Undergraduate (BS–MS), Physics
+  label: Third-year Undergraduate (BS-MS), Physics
   email: ad23ms110@iiserkol.ac.in
   location: |
     IISER Kolkata
@@ -21,7 +21,7 @@ cv:
 
   address:
     street: |
-      C-117, NSCB Hostel
+      C-117, NSCB Hostel, <br>
       IISER Kolkata
     city: Kalyani
     region: West Bengal
@@ -32,10 +32,10 @@ cv:
     Education:
       - institution: Indian Institute of Science Education and Research, Kolkata
         location: |
-          Kalyani
+          Kalyani, <br>
           West Bengal, India
         area: Physics
-        studyType: BS–MS
+        studyType: BS-MS
         start_date: 2023
         end_date: Present
         score: "CGPA: 8.82"
@@ -50,7 +50,7 @@ cv:
 
       - institution: St. Jude’s High School
         location: |
-          Madhyamgram
+          Madhyamgram, <br>
           West Bengal, India
         studyType: ISC (Class XII)
         start_date: 2021
@@ -59,7 +59,7 @@ cv:
 
       - institution: St. Jude’s High School
         location: |
-          Madhyamgram
+          Madhyamgram,  <br>
           West Bengal, India
         studyType: ICSE (Class X)
         start_date: 2020
@@ -75,7 +75,7 @@ cv:
         summary: >
           Developed a Python-based framework for extracting electron temperature (Te)
           and electron density (ne) from Laser-Induced Breakdown Spectroscopy (LIBS)
-          plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening
+          plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening
           with NIST spectral data.
         highlights:
           - Calibration-free LIBS plasma diagnostics
@@ -133,7 +133,7 @@ cv:
         awarder: IISc
         summary: All India Rank 2104.
 
-    Publications: []
+    # Publications: []
 
     Skills:
       - name: Programming
@@ -171,7 +171,7 @@ cv:
           Plasma Physics, Nuclear Fusion, Magnetohydrodynamics,
           Optics and Spectroscopy, Astrophysics
 
-    Certificates: []
+    # Certificates: []
 
     Projects:
       - name: Evaluating Plasma Parameters from a Typical LIBS Plasma
@@ -179,7 +179,7 @@ cv:
         end_date: Present
         summary: >
           Spectroscopic extraction of plasma parameters from LIBS plasmas using
-          Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening, with
+          Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening, with
           ongoing machine-learning enhancements.
         highlights:
           - Calibration-free LIBS
