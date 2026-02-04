@@ -13,7 +13,7 @@ layout: page
         </ul>
       {% endunless %}
       
-      <h1 id="author-{{ author_group.name | slugify }}">
+      <h1 id="author-{{ author_group.name | slugify }}" style="font-size: 1.2em; text-decoration: underline;">
         {% if author_group.name %}
           {{ author_group.name }}
         {% else %}
@@ -25,11 +25,11 @@ layout: page
         {% for item in author_group.items reversed %}
           <figure class="cover">
             {% if item.cover %}
-              <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:200px">
+              <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:300px">
             {% elsif item.olid %}
-              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" style="height:200px">
+              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" style="height:300px">
             {% elsif item.isbn %}
-              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" style="height:200px">
+              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" style="height:300px">
             {% endif %}
             
             {% if item.status %}
