@@ -1,17 +1,17 @@
 ---
 layout: book-review
-title: Dune
+title: Children of Dune
 author: Frank Herbert
 cover: 
-olid: OL59726263M
-isbn: 9780441172719
+olid: OL24935059M
+isbn: 9780425043837
 categories: science-fiction fiction space-opera fantasy
 tags: 
 buy_link: 
 date: 2025-01-01
 started: 2025-01-01
 finished: 2025-01-01
-released: 1965
+released: 1976
 stars: 
 goodreads_review: 
 status: Finished
