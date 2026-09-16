@@ -24,11 +24,7 @@
       "startDate": "2023-08-16",
       "endDate": "",
       "score": "CGPA: 8.82",
-      "courses": [
-        "Physics (major)",
-        "Mathematics (minor)",
-        "Computational and Data Science"
-      ]
+      "courses": ["Physics (major)", "Mathematics (minor)", "Computational and Data Science"]
     },
     {
       "institution": "St. Jude’s High School",
@@ -50,11 +46,7 @@
     {
       "name": "Evaluating Plasma Parameters from a Typical LIBS Plasma",
       "summary": "Python-based framework to extract electron temperature (Te) and density (ne) from LIBS plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening with NIST spectral data. Extended with ML-based improvements and self-absorption modeling.",
-      "highlights": [
-        "Calibration-free LIBS",
-        "Boltzmann and Saha–Boltzmann analysis",
-        "Stark broadening"
-      ],
+      "highlights": ["Calibration-free LIBS", "Boltzmann and Saha–Boltzmann analysis", "Stark broadening"],
       "startDate": "2025-05-13",
       "endDate": "2025-06-31",
       "url": "",
@@ -64,10 +56,7 @@
     {
       "name": "Relativistic Accretion Disk Simulation",
       "summary": "Simulation of accretion disks around black holes in relativistic frameworks, following classical and relativistic fluid dynamics formulations.",
-      "highlights": [
-        "Relativistic fluid dynamics",
-        "Astrophysical simulations"
-      ],
+      "highlights": ["Relativistic fluid dynamics", "Astrophysical simulations"],
       "startDate": "2025-01",
       "endDate": "",
       "entity": "IISER Kolkata"
@@ -106,13 +95,7 @@
   "interests": [
     {
       "name": "Physics",
-      "keywords": [
-        "Plasma Physics",
-        "Nuclear Fusion",
-        "Magnetohydrodynamics",
-        "Optics and Spectroscopy",
-        "Astrophysics"
-      ]
+      "keywords": ["Plasma Physics", "Nuclear Fusion", "Magnetohydrodynamics", "Optics and Spectroscopy", "Astrophysics"]
     }
   ],
 

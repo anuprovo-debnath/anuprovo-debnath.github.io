@@ -2,6 +2,7 @@ cv:
   name: Anuprovo Debnath
   label: Fourth-year Undergraduate (BS-MS), Physics
   email: ad23ms110@iiserkol.ac.in
+  phone: "+91 6289630036"
   location: |
     IISER Kolkata
     West Bengal, India
@@ -21,9 +22,9 @@ cv:
 
   address:
     street: |
-      D-208, ICVS Hostel, <br>
-      IISER Kolkata
-    city: Kalyani
+      Sundaram Apartment, Flat-403, <br>
+      Harmoz Villa, Madhyamgram
+    city: Kolkata
     region: West Bengal
     postalCode: 741246
     countryCode: IN
@@ -38,261 +39,285 @@ cv:
         studyType: BS-MS
         start_date: 2023
         end_date: Present
-        score: "CGPA: 8.82"
-        courses: >
-          Advanced Quantum Physics, Statistical Mechanics, Computational Physics,
-          Stochastic Processes, Mathematical Methods in Physics,
-          Intermediate Electricity and Magnetism, Optics (Theory and Lab),
-          Electronics (Theory and Lab), Nuclear Physics Laboratory
         highlights:
-          - Major in Physics; Minor in Mathematics and Computer Science
-          - Strong foundation in theoretical and computational plasma physics
+          - "CGPA: 8.82"
+          - "Major in Physics; Minor in Mathematics and Computer Science"
+          - "Coursework: Advanced Quantum Physics, Statistical Mechanics, Computational Physics, Stochastic Processes, Mathematical Methods in Physics, Intermediate Electricity and Magnetism, Optics (Theory and Lab), Electronics (Theory and Lab), Nuclear Physics Laboratory"
+          - "Strong foundation in theoretical and computational plasma physics"
 
-      - institution: St. Jude’s High School
+      - institution: "St. Jude’s High School"
         location: |
           Madhyamgram, <br>
           West Bengal, India
-        studyType: I.S.C. (Class XII)
+        studyType: "ISC (Class XII)"
         start_date: 2021
         end_date: 2023
-        score: "95.7%"
+        highlights:
+          - "Score: 95.7%"
 
-      - institution: St. Jude’s High School
+      - institution: "St. Jude’s High School"
         location: |
           Madhyamgram, <br>
           West Bengal, India
-        studyType: I.C.S.E. (Class X)
+        studyType: "ICSE (Class X)"
         start_date: 2020
         end_date: 2021
-        score: "94.4%"
+        highlights:
+          - "Score: 94.4%"
 
     Experience:
       - company: Institute for Plasma Research (IPR)
-        position: Research Student (Guide: Prof. Sudip Sengupta)
-        location: Gandhinagar, India
+        position: "Research Student (Guide: Prof. Sudip Sengupta)"
+        location: "Gandhinagar, India"
         start_date: 2026-05
         end_date: Present
         summary: >
           Numerical Modeling of Laser-Plasma Wakefield Acceleration in the Basic Theory and Simulation group.
         highlights:
-          - Developed a Python-based RK4 computational framework to model electron trapping and acceleration in laser-driven plasma waves
-          - Verified test electron energy gain in longitudinal sinusoidal electric fields, reproducing Tajima and Dawson (1979) scalings
-          - Extended model to 3D with perpendicular magnetic fields to simulate Surfatron acceleration regime
-          - Developing a custom 1D Electrostatic Particle-in-Cell (PIC) simulation code from scratch for kinetic instabilities
+          - "Developed a Python-based RK4 computational framework to model electron trapping and acceleration in laser-driven plasma waves"
+          - "Verified test electron energy gain in longitudinal sinusoidal electric fields, successfully reproducing Tajima and Dawson (1979) theoretical scalings"
+          - "Extended model to a fully vectorized 3D architecture with perpendicular magnetic field to simulate Surfatron acceleration regime"
+          - "Developing a custom 1D Electrostatic Particle-in-Cell (PIC) simulation code from scratch for kinetic instabilities and wave-particle interactions"
 
-      - company: CSIR - Central Mechanical Engineering Research Institute (CSIR-CMERI)
-        position: IASc Summer Research Fellow (Guide: Dr. T. Murugan)
-        location: Durgapur, India
+      - company: "CSIR - Central Mechanical Engineering Research Institute (CSIR-CMERI)"
+        position: "IASc Summer Research Fellow (Guide: Dr. T. Murugan)"
+        location: "Durgapur, India"
         start_date: 2026-06
         end_date: 2026-07
         summary: >
           Simulation and Analysis of ns-DBD Plasma Actuator Shock Waves (SRFP 2026).
         highlights:
-          - Engineered OpenFOAM framework to simulate ns-DBD plasma actuator shock waves at 30, 70, and 100 kPa
-          - Implemented 100 ns phenomenological energy deposition model on multi-block grid, bypassing plasma chemistry overhead
-          - Developed Python/PyVista pipeline using Modified Friedlander Waveform fitting and Levenberg-Marquardt uncertainty propagation
-          - Validated numerical shock propagation against benchmark experimental data
+          - "Engineered an OpenFOAM framework to simulate ns-DBD plasma actuator shock waves at 30, 70, and 100 kPa"
+          - "Implemented a 100 ns phenomenological energy deposition model on an optimized multi-block grid, bypassing plasma chemistry overhead"
+          - "Developed a custom Python/PyVista pipeline utilizing Modified Friedlander Waveform fitting and Levenberg-Marquardt uncertainty propagation"
+          - "Validated numerical shock propagation against benchmark experimental data"
           - "[View 8-Week SRFP Project Report](/projects/ns-dbd_project/)"
 
-      - company: Physical Research Laboratory (PRL), Ahmedabad
-        position: Research Intern (Guide: Dr. Prashant Kumar)
-        location: Ahmedabad, India
+      - company: "Physical Research Laboratory (PRL), Ahmedabad"
+        position: "Research Intern (Guide: Dr. Prashant Kumar)"
+        location: "Ahmedabad, India"
         start_date: 2025-05
         end_date: 2025-10
         summary: >
           Evaluating Plasma Parameters from a Typical LIBS Plasma.
         highlights:
-          - Developed Python framework for extracting Te and ne from LIBS plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening with NIST data
-          - Demonstrated reliable plasma parameter estimation using calibration-free LIBS
-          - Implemented machine-learning framework with LTE validation, self-absorption modeling, and spectral line analysis
+          - "Developed a Python framework for extracting electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening with NIST data"
+          - "Demonstrated reliable plasma parameter estimation using calibration-free LIBS"
+          - "Implemented machine-learning framework with LTE validation, self-absorption modeling, and spectral line analysis"
           - "[View LIBS Summer Internship Report](/projects/libs_project/)"
 
       - company: IISER Kolkata
-        position: Student Researcher (Guide: Dr. Sudip K. Garain)
-        location: Kolkata, India
+        position: "Student Researcher (Guide: Dr. Sudip K. Garain)"
+        location: "Kolkata, India"
         start_date: 2025-02
         end_date: Present
         summary: >
           Simulating accretion disk dynamics around black holes in a relativistic framework.
         highlights:
-          - Relativistic fluid dynamics modeling
-          - Astrophysical simulations based on concepts from Kundu, Cohen, and Dowling
+          - "Relativistic fluid dynamics modeling"
+          - "Astrophysical simulations based on concepts from Kundu, Cohen, and Dowling"
 
       - company: IISER Kolkata
-        position: Reading Project (Guide: Prof. Arindam Kundagrami)
-        location: Kolkata, India
+        position: "Reading Project (Guide: Prof. Arindam Kundagrami)"
+        location: "Kolkata, India"
         start_date: 2024-05
         end_date: 2024-07
         summary: >
           Studying thermodynamics and statistical mechanics following 'A Treatise on Heat' by M. N. Saha and B. N. Srivastava.
 
     Volunteer:
-      - company: Slashdot (Coding Club, IISER Kolkata)
+      - company: "Slashdot (Coding & Design Club, IISER Kolkata)"
         position: Secretary
-        location: IISER Kolkata
+        location: "IISER Kolkata"
         start_date: 2025-11
         end_date: Present
         summary: >
           Leading technical and organizational initiatives for the coding and designing club during 2025–26 tenure.
         highlights:
-          - Leading setup of a hobbyist compute cluster using refurbished PCs with Proxmox VE and Kubernetes
-          - Organized IBM-sponsored Qiskit Fall Fest 2025 (quantum computing event with hands-on learning)
-          - Conducted Blender Workshop on Scientific Visualisation using Python scripting
+          - "Leading setup of a hobbyist compute cluster using refurbished PCs with Proxmox VE and Kubernetes"
+          - "Organized IBM-sponsored Qiskit Fall Fest 2025 (quantum computing event with hands-on learning)"
+          - "Conducted Blender Workshop on Scientific Visualisation using Python scripting"
 
       - company: Academic Workshops & Initiatives
-        position: Participant / Contributor
+        position: "Participant / Contributor"
         location: India
         start_date: 2024
         end_date: 2024
         summary: >
           Workshops, summer schools, and student team contributions.
         highlights:
-          - **IISER Mohali Astronomy & Astrophysics Summer School (2024)**: Hands-on experience in astronomy and astrophysics research techniques
-          - **SAGAN Workshop (2024)**: NASA Exoplanet Science Institute-hosted workshop on exoplanet research
-          - **iGEM Team, IISER Kolkata (2024)**: Contributed to website development, visualisation, and animation
+          - "IISER Mohali Astronomy & Astrophysics Summer School (2024): Hands-on experience in astronomy and astrophysics research techniques"
+          - "NASA SAGAN Workshop (2024): Exoplanet Science Institute-hosted workshop on exoplanet research"
+          - "iGEM Team, IISER Kolkata (2024): Contributed to website development, visualisation, and animation"
 
     Awards:
-      - title: SRFP (Summer Research Fellowship Programme)
+      - title: "Summer Research Fellowship Programme (SRFP)"
         date: 2026
-        awarder: IAS / INSA / NASI
-        summary: Selected for research in Physics at CSIR-CMERI as part of SRFP 2026.
+        awarder: "IAS / INSA / NASI"
+        summary: "Selected for research in Physics at CSIR-CMERI as part of SRFP 2026."
 
-      - title: Smart India Hackathon (SIH)
+      - title: "Smart India Hackathon (SIH)"
         date: 2025
         awarder: Government of India
-        summary: Team 'Haklu El At' shortlisted for problem statement SIH25173.
+        summary: "Team 'Haklu El At' shortlisted for problem statement SIH25173."
 
       - title: International Astronomy and Astrophysics Competition
         date: 2024
         awarder: IAAC
-        summary: Received Silver Honour.
+        summary: "Received Silver Honour."
 
       - title: DST INSPIRE Scholarship
         date: 2023
-        awarder: Department of Science and Technology, Government of India
-        summary: Awarded for ranking in the top 1% in the ISC Examination.
+        awarder: "Department of Science and Technology, Government of India"
+        summary: "Awarded for ranking in the top 1% in the ISC Examination."
 
       - title: National Entrance Screening Test (NEST)
         date: 2023
         awarder: NEST Authority
-        summary: All India Rank 48.
+        summary: "All India Rank 48."
 
       - title: JBNSTS Junior Scholarship
         date: 2021
         awarder: Jagadis Bose National Science Talent Search
-        summary: JBNSTS Junior Scholar.
+        summary: "JBNSTS Junior Scholar."
 
-      - title: KVPY Aptitude Test (Stream - SA)
+      - title: "KVPY Aptitude Test (Stream - SA)"
         date: 2021
-        awarder: Department of Science and Technology / IISc
-        summary: All India Rank 2104.
+        awarder: "Department of Science and Technology / IISc"
+        summary: "All India Rank 2104."
 
       - title: Swarnakana Interschool Merit Test
-        date: 2016-2019
+        date: "2016 - 2019"
         awarder: Rotary Club of Madhyamgram
-        summary: Ranked in every test consecutively from 2016 to 2019.
+        summary: "Ranked in every test consecutively from 2016 to 2019."
 
     Skills:
-      - name: Coding & Programming
+      - name: "Coding & Programming"
         level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, C, C++, Java, FORTRAN, LaTeX"
+        icon: "fa-solid fa-code"
+        keywords:
+          - Python
+          - C
+          - C++
+          - Java
+          - FORTRAN
+          - LaTeX
 
-      - name: Data Visualisation & Diagnostics
+      - name: "Data Visualisation & Diagnostics"
         level: Advanced
-        icon: fa-solid fa-chart-line
-        keywords: "ParaView, Matplotlib, ORIGIN, gnuplot, PyVista"
+        icon: "fa-solid fa-chart-line"
+        keywords:
+          - ParaView
+          - PyVista
+          - Matplotlib
+          - ORIGIN
+          - gnuplot
 
-      - name: Web Development
+      - name: "Web & Media"
         level: Intermediate
-        icon: fa-solid fa-globe
-        keywords: "HTML, CSS, JavaScript"
+        icon: "fa-solid fa-cube"
+        keywords:
+          - HTML
+          - CSS
+          - JavaScript
+          - Blender
 
-      - name: Miscellaneous & Typesetting
+      - name: "Typesetting & Tools"
         level: Advanced
-        icon: fa-solid fa-pen-nib
-        keywords: "LaTeX, Typst, Blender"
+        icon: "fa-solid fa-pen-nib"
+        keywords:
+          - LaTeX
+          - Typst
+          - Linux
+          - Proxmox VE
+          - Kubernetes
+          - Git
 
     Languages:
       - name: English
-        summary: Strong reading, writing, and speaking competencies
+        summary: "Strong reading, writing, and speaking competencies (Fluent)"
       - name: Bengali
-        summary: Native (Strong reading, writing, and speaking competencies)
+        summary: "Native (Strong reading, writing, and speaking competencies)"
       - name: Hindi
-        summary: Strong reading, writing, and speaking competencies
+        summary: "Strong reading, writing, and speaking competencies (Fluent)"
 
     Interests:
-      - name: Physics & Plasma Diagnostics
-        icon: fa-solid fa-atom
-        keywords: >
-          Plasma Physics, Laser-Plasma Wakefield Acceleration, ns-DBD Actuators,
-          Calibration-free LIBS, Spectroscopic Diagnostics, Relativistic Hydrodynamics
+      - name: "Physics & Plasma Diagnostics"
+        icon: "fa-solid fa-atom"
+        keywords:
+          - Plasma Physics
+          - Laser-Plasma Wakefield Acceleration
+          - ns-DBD Actuators
+          - Calibration-free LIBS
+          - Spectroscopic Diagnostics
+          - Relativistic Hydrodynamics
+          - Edge Plasma Interactions
 
     Projects:
-      - name: Numerical Modeling of Laser-Plasma Wakefield Acceleration
+      - name: "Numerical Modeling of Laser-Plasma Wakefield Acceleration"
         start_date: 2026-05
         end_date: Present
         summary: >
-          RK4-based framework modeling electron acceleration dynamics in laser-driven plasma waves under Prof. Sudip Sengupta (IPR); developing a custom 1D Electrostatic PIC simulation code.
+          RK4-based computational framework modeling electron acceleration dynamics in laser-driven plasma waves under Prof. Sudip Sengupta (IPR); developing custom 1D Electrostatic PIC simulation code.
         highlights:
-          - Custom Runge-Kutta (RK4) framework & Surfatron regime simulation
-          - 1D Electrostatic Particle-in-Cell (PIC) code
+          - "Custom Runge-Kutta (RK4) framework & Surfatron regime 3D simulation"
+          - "1D Electrostatic Particle-in-Cell (PIC) code from scratch"
 
-      - name: Simulation and Analysis of ns-DBD Plasma Actuator Shock Waves
+      - name: "Simulation and Analysis of ns-DBD Plasma Actuator Shock Waves"
         start_date: 2026-06
         end_date: 2026-07
         summary: >
           OpenFOAM simulation and Python/PyVista diagnostic pipeline of ns-DBD plasma actuator shock waves at CSIR-CMERI (SRFP 2026).
         highlights:
-          - OpenFOAM phenomenological energy deposition modeling
-          - Modified Friedlander Waveform fitting & uncertainty propagation
+          - "OpenFOAM phenomenological energy deposition modeling"
+          - "Modified Friedlander Waveform fitting & uncertainty propagation"
           - "[View Project Page & Report](/projects/ns-dbd_project/)"
 
-      - name: Evaluating Plasma Parameters from a Typical LIBS Plasma
+      - name: "Evaluating Plasma Parameters from a Typical LIBS Plasma"
         start_date: 2025-05
         end_date: 2025-10
         summary: >
           Python framework for electron temperature and density extraction from LIBS plasmas using NIST spectral data at PRL Ahmedabad.
         highlights:
-          - Calibration-free LIBS plasma diagnostics (Boltzmann / Saha-Boltzmann plots, Stark broadening)
+          - "Calibration-free LIBS plasma diagnostics (Boltzmann / Saha-Boltzmann plots, Stark broadening)"
           - "[View Project Page & Report](/projects/libs_project/)"
 
-      - name: Hobbyist Compute Cluster Setup (Slashdot)
+      - name: "Hobbyist Compute Cluster Setup (Slashdot)"
         start_date: 2025-11
         end_date: Present
         summary: >
           Building a sandboxed compute cluster using refurbished PCs to enable experimentation without affecting production systems.
         highlights:
-          - Proxmox VE
-          - Kubernetes
-          - Cluster orchestration
+          - "Proxmox VE"
+          - "Kubernetes"
+          - "Cluster orchestration"
 
-      - name: Simulation of Accretion Disk Around a Black Hole
+      - name: "Simulation of Accretion Disk Around a Black Hole"
         start_date: 2025-02
         end_date: Present
         summary: >
           Relativistic fluid dynamics simulations of accretion disk dynamics around black holes at IISER Kolkata.
 
     Extracurriculars:
-      - bullet: Secretary of **Slashdot**, the coding and designing club of IISER-K, leading initiatives during the successful 2025–26 tenure.
-      - bullet: Active member of **Singularity**, the astronomy club at IISER-K. Served as a video editor and contributed significantly to the podcast *Talking to the Stars*, featuring interviews with prominent astrophysicists across India.
-      - bullet: Active participant in theatrics, specializing in light and sound production. Part of the gold medal-winning drama team at the **Inter IISER Cultural Meet (IICM)** during 2024 and 2025.
-      - bullet: Assisted Prof. Rajesh Kumble Nayak (DPS, IISER-K) in setting up a hobbyist electronics lab at IISER-K.
-      - bullet: Passionate about playing guitar and listening to music.
+      - bullet: "Secretary of **Slashdot**, the coding and designing club of IISER-K, leading initiatives during the successful 2025–26 tenure."
+      - bullet: "Active member of **Singularity**, the astronomy club at IISER-K. Served as a video editor and contributed significantly to the podcast *Talking to the Stars*, featuring interviews with prominent astrophysicists across India."
+      - bullet: "Active participant in theatrics, specializing in light and sound production. Part of the gold medal-winning drama team at the **Inter IISER Cultural Meet (IICM)** during 2024 and 2025."
+      - bullet: "Assisted Prof. Rajesh Kumble Nayak (DPS, IISER-K) in setting up a hobbyist electronics lab at IISER-K."
+      - bullet: "Passionate about playing guitar and listening to music."
 
     References:
       - name: Prof. Sudip Sengupta
-        icon: fa-solid fa-atom
-        reference: Senior Professor, Basic Theory and Simulation, Institute for Plasma Research (IPR), Gandhinagar
+        icon: "fa-solid fa-atom"
+        reference: "Senior Professor, Basic Theory and Simulation, Institute for Plasma Research (IPR), Gandhinagar"
 
       - name: Dr. T. Murugan
-        icon: fa-solid fa-wind
-        reference: Senior Principal Scientist, CSIR-CMERI, Durgapur
+        icon: "fa-solid fa-wind"
+        reference: "Senior Principal Scientist, CSIR-CMERI, Durgapur"
 
       - name: Dr. Prashant Kumar
-        icon: fa-solid fa-flask
-        reference: Scientist, Physical Research Laboratory (PRL), Ahmedabad
+        icon: "fa-solid fa-flask"
+        reference: "Scientist, Physical Research Laboratory (PRL), Ahmedabad"
 
       - name: Dr. Sudip K. Garain
-        icon: fa-solid fa-user
-        reference: Assistant Professor, Department of Physical Sciences, IISER Kolkata
+        icon: "fa-solid fa-user"
+        reference: "Assistant Professor, Department of Physical Sciences, IISER Kolkata"

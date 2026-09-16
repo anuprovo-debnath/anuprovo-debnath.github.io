@@ -67,9 +67,11 @@ The site will be accessible at [http://localhost:8080](http://localhost:8080) (o
 ## 🛠️ How I Manage & Update Content
 
 ### 1. Adding a New Project or Internship Report
+
 1. Place the PDF report inside `assets/pdf/` (e.g., `assets/pdf/My_Report.pdf`).
 2. (Optional) Place a preview image in `assets/img/` (e.g., `assets/img/report_thumbnail.png`).
 3. Create a new markdown file inside `_projects/` (e.g., `_projects/my_project.md`):
+
    ```yaml
    ---
    layout: page
@@ -86,22 +88,25 @@ The site will be accessible at [http://localhost:8080](http://localhost:8080) (o
    ---
 
    ## 📄 Project Report
-   <div class="embed-responsive embed-responsive-16by9">  
+   <div class="embed-responsive embed-responsive-16by9">
      <iframe src="/assets/pdf/My_Report.pdf"
-             class="embed-responsive-item" 
+             class="embed-responsive-item"
              loading="lazy"
-             style="min-height: 900px; width: 100%;"></iframe>  
+             style="min-height: 900px; width: 100%;"></iframe>
    </div>
    ```
 
 ### 2. Updating My Curriculum Vitae (CV)
+
 - **Interactive CV Page (`/cv/`)**: Update `_data/cv.yml` under the respective sections (`Education`, `Experience`, `Volunteer`, `Awards`, `Skills`, `Projects`).
 - **Downloadable PDF CV**: Place my compiled PDF at `assets/pdf/cv_debnath_anuprovo.pdf` (linked in `_pages/cv.md`).
 
 ### 3. Adding Publications
+
 Add BibTeX entries to `_bibliography/papers.bib`. The theme automatically parses, formats, and renders my citations under `/publications/`.
 
 ### 4. Adding News & Blog Posts
+
 - **Announcements**: Add markdown files to `_news/` with front matter containing `date:` and `inline: true`.
 - **Blog Posts**: Add markdown files to `_posts/` with the filename format `YYYY-MM-DD-title.md`.
 

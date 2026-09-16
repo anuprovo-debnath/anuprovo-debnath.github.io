@@ -40,6 +40,6 @@ If the PDF does not load properly, you can download it here&nbsp;
        background: none; 
        display: inline-block;
    ">
-  <i class="fa-solid fa-file-pdf"
+<i class="fa-solid fa-file-pdf"
      style="font-size:2rem; line-height:1; display:inline-block;"></i>
 </a>
