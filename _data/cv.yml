@@ -2,7 +2,6 @@ cv:
   name: Anuprovo Debnath
   label: Fourth-year Undergraduate (BS-MS), Physics
   email: ad23ms110@iiserkol.ac.in
-  phone: "+91 6289630036"
   location: |
     IISER Kolkata
     West Bengal, India
@@ -22,9 +21,9 @@ cv:
 
   address:
     street: |
-      Sundaram Apartment, Flat-403, <br>
-      Harmoz Villa, Madhyamgram
-    city: Kolkata
+      D-208, ICVS Hostel, <br>
+      IISER Kolkata
+    city: Kalyani
     region: West Bengal
     postalCode: 741246
     countryCode: IN
