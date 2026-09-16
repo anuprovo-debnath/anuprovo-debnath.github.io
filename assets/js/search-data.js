@@ -148,11 +148,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-summer-internship-project",
-          title: 'Summer Internship Project',
-          description: "My project report",
+          section: "News",},{id: "projects-evaluating-plasma-parameters-from-a-typical-libs-plasma",
+          title: 'Evaluating Plasma Parameters from a Typical LIBS Plasma',
+          description: "Summer Internship Project at Physical Research Laboratory (PRL), Ahmedabad",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/libs_project/";
+            },},{id: "projects-simulation-and-analysis-of-ns-dbd-plasma-actuator-shock-waves",
+          title: 'Simulation and Analysis of ns-DBD Plasma Actuator Shock Waves',
+          description: "IASc-INSA-NASI Summer Research Fellowship (SRFP) Project at CSIR-CMERI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ns-dbd_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
