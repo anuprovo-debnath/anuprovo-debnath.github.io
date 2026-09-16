@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Summer Internship Project
-description: My project report
+title: Evaluating Plasma Parameters from a Typical LIBS Plasma
+description: Summer Internship Project at Physical Research Laboratory (PRL), Ahmedabad
 img: assets/img/Plasma_1.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
 ## Project Overview
 
-This project explores **Calibration-free LIBS**.
+Under the guidance of **Dr. Prashant Kumar** (Scientist, PRL Ahmedabad), developed a Python-based framework for extracting electron temperature ($T_e$) and electron density ($n_e$) from Laser-Induced Breakdown Spectroscopy (LIBS) plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening with NIST spectral data. The validated approach demonstrates that calibration-free LIBS can reliably estimate plasma parameters. Currently extending the work by implementing a machine-learning framework with LTE validation, modelling self-absorption, and improving spectral line analysis.
+
 The full project report is available below.
 
 ---

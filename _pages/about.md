@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Physics major at IISER Kolkata #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: BS-MS Physics Major at IISER Kolkata
 
 profile:
   align: right
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: #>
-    #<p>Third-year Undergrad</p>
-    #<p>IISER Kolkata</p>
-    #<p>WB, India</p>
+  more_info: >
+    <p>Fourth-year Undergrad (Physics)</p>
+    <p>IISER Kolkata</p>
+    <p>West Bengal, India</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Anuprovo, a third-year undergraduate at **IISER Kolkata**, majoring in **Physics** with minor in **Mathematics** and **Computer Science**.
+I am Anuprovo Debnath, a fourth-year undergraduate student at **IISER Kolkata**, pursuing a BS-MS dual degree with a major in **Physics** and minors in **Mathematics** and **Computer Science**.
 
-My academic interests lie primarily in **plasma physics and nuclear fusion**, with a focus on **edge plasma-wall interactions** in magnetically confined plasma devices such as **tokamaks and stellarators**. I am particularly interested in understanding edge plasma dynamics, turbulence, and plasma-surface interactions -- key challenges that currently limit long-term stable magnetic confinement. I strongly believe that **nuclear fusion** holds promise as a major sustainable energy source in the long-term future.
+My research interests center on **theoretical and computational plasma physics**, **laser-plasma interactions**, **plasma diagnostics**, and **fluid dynamics**:
 
-My academic background and research experience are detailed in my [CV](/cv/) and [projects](/projects/) sections of this website. I also plan to upload **class notes** and write informal **blog** posts on topics I’m learning and exploring.
+I am particularly interested in understanding edge plasma dynamics, turbulence, and plasma-surface interactions -- key challenges that currently limit long-term stable magnetic confinement. I strongly believe that **nuclear fusion** holds promise as a major sustainable energy source in the long-term future.
 
-Outside academics, I enjoy playing guitar, reading books, and watching films. When not studying, I'm probably by the dimmer board in **RNT Auditorium** during a drama production, or tinkering with **computers in homelab** (inspired by [r/homelab](https://www.reddit.com/r/homelab)).
+Detailed descriptions of my academic background, research experience, and internship reports are available in the [Projects](/projects/) and [CV](/cv/) sections of this site. I also plan to upload **class notes** and write informal **blog** posts on topics I’m learning and exploring.
+
+Outside academics, I serve as Secretary of **Slashdot** (the coding & design club at IISER-K), participate in astronomy outreach with **Singularity**, handle light and sound production in **RNT Auditorium** during drama productions, and tinker with **computers in homelab** (inspired by [r/homelab](https://www.reddit.com/r/homelab)). In my free time, I enjoy playing guitar, reading books, and watching films.
